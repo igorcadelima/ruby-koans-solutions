@@ -165,3 +165,5 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.gitignore.io/api/vim,ruby,linux,windows,rubymine
+
+.path_progress
